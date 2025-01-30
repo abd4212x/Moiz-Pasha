@@ -10,3 +10,5 @@ int y = a -b;
 Console.WriteLine($"The substraction of two numbers is {y}");
 int z = a *b;
 Console.WriteLine($"The multiplication of two numbers is {z}");
+int p = a /b;
+Console.WriteLine($" The division of two numbers is {p}"); 
